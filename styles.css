@@ -29,7 +29,7 @@ header {
 
 .game {
   background-color: #fff;
-  border: 2px solid #007bff;
+  border: 2px solid #006400; /* Dark green border */
   border-radius: 8px;
   padding: 20px;
   width: 100%;
@@ -64,4 +64,6 @@ header {
 footer {
   margin-top: 30px;
   font-size: 0.9em;
+  color: #666;
+  text-align: center;
 }
