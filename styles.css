@@ -29,7 +29,7 @@ header {
 
 .game {
   background-color: #fff;
-  border: 2px solid MediumSeaGrean; /* Dark green border */
+  border: 2px solid #FFA500; /* Dark green border */
   border-radius: 8px;
   padding: 20px;
   width: 100%;
@@ -51,14 +51,14 @@ header {
   display: inline-block;
   padding: 10px 15px;
   color: #fff;
-  background-color: #007bff;
+  background-color: #FFA500;
   border-radius: 5px;
   text-decoration: none;
   font-size: 1em;
 }
 
 .game a:hover {
-  background-color: #0056b3;
+  background-color: #FFA505;
 }
 
 footer {
